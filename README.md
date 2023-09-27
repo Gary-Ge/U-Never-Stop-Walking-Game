@@ -5,4 +5,4 @@ In this project, we aimed to develop an action-adventure platform titled “yoU 
 
 You can find the CG and Demo vieo on https://www.youtube.com/@yimingge
 
-If you want to have a try,leave a msg to geym0323@163.com and I can send you the .zip 
+If you want to have a try,Here is the download link https://unsw-my.sharepoint.com/:u:/g/personal/z5352154_ad_unsw_edu_au/ES09a77C0x5LkSHVgVpTbH4BkXTJCb2R9xBjp13dRkz80A?e=5AVZJK
